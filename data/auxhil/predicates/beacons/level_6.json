@@ -1,0 +1,687 @@
+{
+  "condition": "minecraft:inverted",
+  "term": {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:reference",
+          "name": "auxhil:beacons/level_5"
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": -6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": -5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": -4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": -3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": -2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": -1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": 1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": 2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": 3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": 4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": 5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": -6,
+          "offsetZ": 6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": -6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": -5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": -4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": -3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": -2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": -1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": 1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": 2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": 3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": 4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": 5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetX": 6,
+          "offsetZ": 6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": -6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": -5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": -4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": -3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": -2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": -1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": 1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": 2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": 3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": 4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": 5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": -6,
+          "offsetX": 6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": -6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": -5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": -4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": -3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": -2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": -1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": 1,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": 2,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": 3,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": 4,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": 5,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:location_check",
+          "offsetZ": 6,
+          "offsetX": 6,
+          "predicate": {
+            "block": {
+              "tag": "minecraft:beacon_base_blocks"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

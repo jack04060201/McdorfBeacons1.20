@@ -1,0 +1,1 @@
+execute align xyz positioned ~.5 ~.5 ~.5 run summon armor_stand ~ ~ ~ {Marker:1b, Small:1b, Invisible:1b, Tags:["auxhil.bc.beacon"]}

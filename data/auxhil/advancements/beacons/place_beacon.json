@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "auxhil:beacons/find_beacon"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:beacon"
+      }
+    }
+  }
+}
