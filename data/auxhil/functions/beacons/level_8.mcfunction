@@ -61,7 +61,7 @@ execute if block ~ ~ ~ minecraft:beacon{Secondary:1, Primary:1} positioned ~-275
 #haste
 execute if block ~ ~ ~ minecraft:beacon{Secondary:3, Primary:3} positioned ~-275 ~-275 ~-275 run effect give @a[dx=550, dy=383,dz=550] haste 24 4 true
 #resistance
-execute if block ~ ~ ~ minecraft:beacon{Secondary:11, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @a[dx=550, dy=383,dz=550] resistance 24 4 true
+execute if block ~ ~ ~ minecraft:beacon{Secondary:11, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @a[dx=550, dy=383,dz=550] resistance 24 3 true
 #jump_boost
 execute if block ~ ~ ~ minecraft:beacon{Secondary:8, Primary:8} positioned ~-275 ~-275 ~-275 run effect give @a[dx=550, dy=383,dz=550] jump_boost 24 4 true
 #strength
@@ -73,7 +73,7 @@ execute if block ~ ~ ~ minecraft:beacon{Secondary:1, Primary:1} positioned ~-275
 #haste
 execute if block ~ ~ ~ minecraft:beacon{Secondary:3, Primary:3} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecolonies:citizen, dx=550, dy=383,dz=550] haste 24 4 true
 #resistance
-execute if block ~ ~ ~ minecraft:beacon{Secondary:11, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecolonies:citizen, dx=550, dy=383,dz=550] resistance 24 4 true
+execute if block ~ ~ ~ minecraft:beacon{Secondary:11, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecolonies:citizen, dx=550, dy=383,dz=550] resistance 24 3 true
 #strength
 execute if block ~ ~ ~ minecraft:beacon{Secondary:5, Primary:5} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecolonies:citizen, dx=550, dy=383,dz=550] strength 24 4 true
 
@@ -84,7 +84,7 @@ execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:1} positioned ~-27
 #haste
 execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:3} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:villager, dx=550, dy=383,dz=550] haste 24 4 true
 #resistance
-execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:villager, dx=550, dy=383,dz=550] resistance 24 4 true
+execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:villager, dx=550, dy=383,dz=550] resistance 24 3 true
 #jump_boost
 execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:8} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:villager, dx=550, dy=383,dz=550] jump_boost 24 2 true
 #strength
@@ -104,7 +104,7 @@ execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:1} positioned ~-27
 #haste
 execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:3} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:snow_golem, dx=550, dy=383,dz=550] haste 24 4 true
 #resistance
-execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:snow_golem, dx=550, dy=383,dz=550] resistance 24 4 true
+execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:11} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:snow_golem, dx=550, dy=383,dz=550] resistance 24 3 true
 #jump_boost
 execute if block ~ ~ ~ minecraft:beacon{Secondary:10, Primary:8} positioned ~-275 ~-275 ~-275 run effect give @e[type=minecraft:snow_golem, dx=550, dy=383,dz=550] jump_boost 24 2 true
 #strength
