@@ -6,7 +6,16 @@
     "requirement": {
       "trigger": "minecraft:placed_block",
       "conditions": {
-        "block": "minecraft:beacon"
+        "location": [
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:beacon"
+              ]
+            }
+          }
+        ]
       }
     }
   }
